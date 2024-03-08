@@ -1,0 +1,5 @@
+### NOTEBOOK
+https://www.kaggle.com/code/mazenahmed11/classification-report-about-nyc
+
+### Data
+https://www.kaggle.com/datasets/alistairking/nyc-building-energy-efficiency-ratings/data
